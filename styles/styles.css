@@ -1,0 +1,14 @@
+div {
+  display: flex;
+  flex-direction: column;
+}
+
+span {
+  background-color: darkgray;
+  width: fit-content;
+  padding: 0.2rem;
+}
+
+span:hover {
+  background-color: lightgray;
+}
